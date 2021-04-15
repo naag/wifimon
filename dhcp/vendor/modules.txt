@@ -1,0 +1,25 @@
+# github.com/davecgh/go-spew v1.1.0
+## explicit
+github.com/davecgh/go-spew/spew
+# github.com/insomniacslk/dhcp v0.0.0-20210315110227-c51060810aaa
+## explicit
+github.com/insomniacslk/dhcp/dhcpv4
+github.com/insomniacslk/dhcp/dhcpv4/nclient4
+github.com/insomniacslk/dhcp/iana
+github.com/insomniacslk/dhcp/interfaces
+github.com/insomniacslk/dhcp/rfc1035label
+# github.com/mdlayher/ethernet v0.0.0-20190606142754-0394541c37b7
+github.com/mdlayher/ethernet
+# github.com/mdlayher/raw v0.0.0-20191009151244-50f2db8cc065
+github.com/mdlayher/raw
+# github.com/u-root/u-root v7.0.0+incompatible
+github.com/u-root/u-root/pkg/cmdline
+github.com/u-root/u-root/pkg/rand
+github.com/u-root/u-root/pkg/shlex
+github.com/u-root/u-root/pkg/ubinary
+github.com/u-root/u-root/pkg/uio
+# golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
+golang.org/x/net/bpf
+# golang.org/x/sys v0.0.0-20201112073958-5cba982894dd
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
